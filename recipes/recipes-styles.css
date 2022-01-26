@@ -1,0 +1,44 @@
+h1
+{
+  background-color: #00a6ff;
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h2
+{
+  background-color: #a3a3a3;
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+p
+{
+  font-family: sans-serif;
+  color: black;
+}
+
+.u-list
+{
+  font-family: Verdana, sans-serif;
+  color: #00658c;
+}
+
+.o-list
+{
+  font-family: sans-serif;
+  color: #383838;
+}
+
+#l-element
+{
+  color: #00999e;
+}
+
+.link-list
+{
+  font-family: Verdana, sans-serif;
+  color: orange;
+}
